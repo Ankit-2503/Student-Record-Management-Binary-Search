@@ -1,0 +1,26 @@
+[
+    {
+        "id": "06",
+        "name": "aryan thakur",
+        "course": "cyber security",
+        "email": "aryanthakurR15@gmail.com"
+    },
+    {
+        "id": "101",
+        "name": "Ankit",
+        "course": "MCA",
+        "email": "ankit@example.com"
+    },
+    {
+        "id": "102",
+        "name": "Rahul",
+        "course": "MCA",
+        "email": "rahul@example.com"
+    },
+    {
+        "id": "103",
+        "name": "Priya",
+        "course": "MCA",
+        "email": "priya@example.com"
+    }
+]
